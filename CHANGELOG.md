@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/sunpebble/sleeptab-harmony/compare/v0.1.2...v0.2.0) (2026-07-08)
+
+
+### Features
+
+* sync V2 state migration from harmony-kit ([e2fafc6](https://github.com/sunpebble/sleeptab-harmony/commit/e2fafc65907b5726fe153c91e55cde131c4c2dd3))
+
+
+### Bug Fixes
+
+* keep range chips in sync with system language ([e9bf3f2](https://github.com/sunpebble/sleeptab-harmony/commit/e9bf3f2e8e72c747019095045311824335556f0d))
+
 ## [0.1.2](https://github.com/sunpebble/sleeptab-harmony/compare/v0.1.1...v0.1.2) (2026-07-07)
 
 
